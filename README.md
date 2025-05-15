@@ -1,3 +1,3 @@
 # Automation Engineer
 
-![Uploading Soal Nomor 2.jpeg…]()
+Soal Nomor 2.jpeg
