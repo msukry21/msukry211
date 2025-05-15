@@ -1,3 +1,4 @@
 # Automation Engineer
 
-Soal Nomor 2.jpeg
+![Preview Soal Nomor 2](./assets/Soal%20Nomor%202.jpeg)
+
