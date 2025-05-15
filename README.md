@@ -3,4 +3,4 @@
 ![Preview Soal Nomor 2](Soal%20Nomor%202.jpeg)
 
 ## VIDEO DEMO
-[▶️ Tonton Video Demo]([https://youtu.be/your_video_id](https://www.youtube.com/watch?v=bkaq4Vh6CjE))
+[▶️ Tonton Video Demo](https://www.youtube.com/watch?v=bkaq4Vh6CjE)
